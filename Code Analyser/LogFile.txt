@@ -1,0 +1,48 @@
+Error In Filename: Assertiontest.java in line no: 6 due to variable: ABC of datatype: int violating ruleNo: 1
+
+Error In Filename: Assertiontest.java in line no: 54 due to variable: time_taken of datatype: long violating ruleNo: 3
+
+Error In Filename: AlphabeticalSort.java in line no: 16 due to variable: Retains of datatype: String violating ruleNo: 1
+
+Error In Filename: Assertiontest.java in line no: 50 due to variable: start_time of datatype: long violating ruleNo: 3
+
+Error In Filename: Assertiontest.java in line no: 55 due to variable: end_time of datatype: long violating ruleNo: 3
+
+Error In Filename: Assertiontest.java in line no: 43 due to variable: num_reader of datatype: int violating ruleNo: 3
+
+Error In Filename: Assertiontest.java in line no: 14 due to variable: nr_read of datatype: int violating ruleNo: 3
+
+Error In Filename: Set.java in line no: 7 due to variable: The of datatype: long violating ruleNo: 1
+
+Error In Filename: Assertiontest.java in line no: 8 due to variable: $year of datatype: int violating ruleNo: 2
+
+Error In Filename: Assertiontest.java in line no: 4 due to variable: ISBN of datatype: int violating ruleNo: 1
+
+Error In Filename: AlgoComparison.java in line no: 6 due to variable: I of datatype: int violating ruleNo: 1
+
+Error In Filename: Card.java in line no: 11 due to variable: area_code of datatype: String violating ruleNo: 3
+
+Error In Filename: Card.java in line no: 18 due to variable: al_str of datatype: String violating ruleNo: 3
+
+Error In Filename: Assertiontest.java in line no: 28 due to variable: final_str of datatype: String violating ruleNo: 3
+
+Error In Filename: RandomCards.java in line no: 15 due to variable: CountingData of datatype: String violating ruleNo: 1
+
+Error In Filename: Card.java in line no: 20 due to variable: Integer of datatype: String violating ruleNo: 1
+
+Error In Filename: Comparable_implementation.java in line no: 20 due to variable: Integer of datatype: String violating ruleNo: 1
+
+Error In Filename: Card.java in line no: 35 due to variable: Integer of datatype: String violating ruleNo: 1
+
+Error In Filename: Comparable_implementation.java in line no: 35 due to variable: Integer of datatype: String violating ruleNo: 1
+
+Error In Filename: RandomCards.java in line no: 42 due to variable: Integer of datatype: String violating ruleNo: 1
+
+Error In Filename: ComparatorSort.java in line no: 42 due to variable: Integer of datatype: String violating ruleNo: 1
+
+Error In Filename: RandomCards.java in line no: 7 due to variable: convert_TitCase of datatype: String violating ruleNo: 3
+
+Error In Filename: Assertiontest.java in line no: 9 due to variable: f_name of datatype: String violating ruleNo: 3
+
+Error In Filename: Assertiontest.java in line no: 10 due to variable: section_no of datatype: int violating ruleNo: 3
+
